@@ -1,2 +1,2 @@
 # Bharat-intern-task-1
-Netflix
+Netflix Home Page
